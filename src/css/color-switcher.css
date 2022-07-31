@@ -1,0 +1,12 @@
+.switcher-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40vh;
+  gap: 20px;
+}
+
+.switcher-btn {
+  padding: 40px 80px;
+  border-radius: 10px;
+  font-size: 30px;
+}
